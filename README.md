@@ -1,5 +1,7 @@
 # Pnpm workspace examples
 
+[Managing a full-stack, multipackage monorepo using pnpm](https://blog.logrocket.com/managing-full-stack-monorepo-pnpm/)
+
 Example code showing how to create a multi-package mono repo using pnpm.
 
 This code accompanies [my talk](https://www.youtube.com/watch?v=FBRUxdmujdo) and [blog post on pnpm](https://www.codecapers.com.au/pnpm-workspaces/). 
